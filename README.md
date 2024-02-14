@@ -7,7 +7,6 @@ This program calculates the average number of days a company's employees are abs
 - Allows the user to input the number of employees in the company.
 - Prompts the user to enter the ID numbers and days absent for each employee.
 - Calculates the total days absent and the average days absent per employee.
-- Outputs the results to a file named "EMPLOYEE_ABSENCE.txt".
 - Includes the name of the programmer and the due date in the output file.
 
 ## How to Use
@@ -15,7 +14,7 @@ This program calculates the average number of days a company's employees are abs
 1. Compile the program.
 2. Run the executable.
 3. Follow the prompts to enter the necessary information.
-4. Check the output file "EMPLOYEE_ABSENCE.txt" for the results.
+
 
 ## Example
 
