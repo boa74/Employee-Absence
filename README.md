@@ -43,7 +43,7 @@ This program was developed by BOA KIM.
 
 ## Note
 
-Please ensure that the input for the number of employees and the days abse
+Please ensure that the input for the number of employees and the days absence.
 
 
 
