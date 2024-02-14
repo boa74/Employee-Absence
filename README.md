@@ -33,8 +33,6 @@ The program will then output the results to "EMPLOYEE_ABSENCE.txt":
 
 The 3 employees were absent a total of 15 days.
 The average number of days absent is 5.00 days.
-Programmer: BOA KIM
-Due Date: May 11
 
 
 ## Programmer
